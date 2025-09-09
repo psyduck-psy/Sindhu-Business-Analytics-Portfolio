@@ -17,33 +17,29 @@ What sets me apart is my ability to **bridge technical skills with business cont
 
 ## Featured Projects
 
-### [Netflix Catalogue Analytics](https://github.com/psyduck-psy/Netflix-Catalogue-Analytics-StreamVision-Case-Study)
+### [Netflix Catalogue Analytics] https://github.com/psyduck-psy/Netflix-Catalogue-Analytics-StreamVision-Case-Study
 Analyzed Netflix’s 8,800-title catalogue to guide StreamVision’s content acquisition and global expansion strategy.  
 *Tools: Power BI, DAX, PostgreSQL*
 
-### [HealthFirst Medical Clinic Analytics](https://github.com/psyduck-psy/HealthFirst-Medical-Clinic-Analytics)
+### [HealthFirst Medical Clinic Analytics] https://github.com/psyduck-psy/HealthFirst-Medical-Clinic-Analytics
 Built dashboards to track patient wait times, no-shows, slot utilization, and staff overtime.  
 *Tools: Power BI, DAX*
 
-### [SkyZen Airline Survey Analytics](https://github.com/psyduck-psy/SkyZen-Airline-Survey-Analytics)
+### [SkyZen Airline Survey Analytics] https://github.com/psyduck-psy/SkyZen-Airline-Survey-Analytics
 Analyzed passenger survey data (100K+ respondents) to uncover satisfaction drivers and booking challenges.  
 *Tools: Power BI, DAX*
 
-### [Ford Supply Chain Strategy](https://github.com/psyduck-psy/Ford-Supply-Chain-Strategy)
+### [Ford Supply Chain Strategy] https://github.com/psyduck-psy/Ford-Supply-Chain-Strategy
 Case study on Ford’s global supply chain, risks, and sustainability initiatives.  
 *Focus: Supply Chain Analysis, PESTEL, Strategic Recommendations*
 
-### [Lululemon Strategy Case Study](https://github.com/psyduck-psy/Lululemon-Strategy-Case-Study)
-Examined Lululemon’s competitive advantage, growth challenges, and opportunities in the global activewear market.  
-*Focus: Strategy, Market Analysis, Competitive Positioning*
-
-### [Stock Investment Portfolio – Canada](https://github.com/psyduck-psy/Stock-Investment-Portfolio-Canada)
-Constructed a **$100,000 diversified portfolio of 5 Canadian blue-chip stocks** using financial modeling, Monte Carlo simulations, and optimization.  
-*Tools: R, Python, Quantitative Analysis*
-
-### [Toronto Traffic Collision Analysis](https://github.com/psyduck-psy/Toronto-Traffic-Collision-)
+### [Toronto Traffic Collision Analysis] https://github.com/psyduck-psy/Toronto-Traffic-Collision-
 Predictive modeling on Toronto collision data to identify severity, hotspots, and trends.  
 *Tools: R, Decision Trees, Data Visualization*
+
+### [Stock Investment Portfolio – Canada] https://github.com/psyduck-psy/Stock-Investment-Portfolio-Canada
+Constructed a **$100,000 diversified portfolio of 5 Canadian blue-chip stocks** using financial modeling, Monte Carlo simulations, and optimization.  
+*Tools: R, Python, Quantitative Analysis*
 
 ---
 
